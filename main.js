@@ -1,4 +1,5 @@
 import Customers from './Customers.js'
+import newCustomers from './newCustomers.js'
 
 function count (arr){
   let i = 0;
